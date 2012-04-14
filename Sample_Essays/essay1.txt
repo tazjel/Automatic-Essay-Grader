@@ -1,0 +1,16 @@
+Automated essay scoring is unfair to students, since there are many different ways for a student to express ideas intelligently and coherently. A computer program can not be expected to anticipate all of these possibilities, and will therefore grade students more harshly than they deserve. Discuss whether you agree or disagree (partially or totally) with the view expressed providing reasons and examples.
+
+It may seem that an automated essay scoring system is not capable of fairly grading a student essay, but I would disagree with the statement.
+
+There is evidence that the scores assigned by an automated system corelates very well with that assigned by a human grader. The consistency in scores assigned to different essays on the same topic is higher that of the humans.
+
+
+Also, the technology used in these systems has reached a state of maturity where it is capable of anticipating and evaluating the various ways of saying a particular thing. Automated systems, evolving over a period of time, can now identify and extract features of a written essay, that help evaluate it to a high degree of satisfaction. Such features typically include measures indicating complexity of the vocabulary used and errors in grammar, mechanics and style.
+
+
+Even though the automated systems of today are doing a good job, there is still scope for improvement. Such systems are unable to correctly evaluate the use of technical, domain-specific terminology and colloquial language as well as factual correctness of the essay. In addition, it might be unable to handle a case where an essay is gramatically well-written, but irrelevant to the topic given.
+
+
+In spite of such shortcommings, I believe that the automated essay scoring systems are in a state of development where they can handle the complexity of language usage and evaluate student essays fairly.
+
+
