@@ -1,0 +1,29 @@
+GROUP MEMBERS:
+APARNA N...................USN: 1PI09CS016
+APOORVA RAO B..............USN: 1PI09CS017
+KARTHIK R PRASAD...........USN: 1PI09CS037
+
+GUIDE:
+DR. B NARSING RAO
+
+
+ABSTRACT
+AUTOMATIC ESSAY GRADER
+
+Almost everything in this world is automated; however grading subjective answers and
+essays is - painfully - done manually. Automatic Evaluation and Grading of English
+
+Essays, therefore, is relevant, both, socially and technologically.
+The techniques employed to achieve this encompass, not only a vast area of computer
+science: bringing Data Mining, Machine Learning and Natural Language Processing
+under its radar, but also some ‘abstract aspects’ of the English language and grammar;
+the subtle points such as the deviation from the central topic, structure of the sentences,
+etc., that help determine the qualities of a good essay.
+
+The scope of this project is, therefore, to explore various techniques tha may be used to
+evaluate an essay and to develop a system which will automatically grade an English
+essay based on: Spelling, Grammar, Coherence, Frequent Phrases and Vocabulary. The
+system will then produce a score report and statistics of the essay.
+
+
+NOTE: The project is currently being worked on and a lot of features are yet to be implemented...
